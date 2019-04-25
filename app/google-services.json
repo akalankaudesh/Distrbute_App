@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233735868217",
+    "firebase_url": "https://distributedapp-efc7a.firebaseio.com",
+    "project_id": "distributedapp-efc7a",
+    "storage_bucket": "distributedapp-efc7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233735868217:android:3271b5995e06f3a3",
+        "android_client_info": {
+          "package_name": "nsbm.plymouth.distributed_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233735868217-06cst0861bilq5hn5fpjipheramo3fh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQhlXsV0gObPOVo2EPeInnkxp31EuuxSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233735868217-06cst0861bilq5hn5fpjipheramo3fh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
