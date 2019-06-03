@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textorder_id"
+            android:layout_width="57dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="73dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textcustomer_id"
+            android:layout_width="57dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="69dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textitem_id"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="73dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textunit_price"
+            android:layout_width="55dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/textViewqty"
+            android:layout_width="51dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Small" />
+
+
+    </LinearLayout>
+</LinearLayout>
